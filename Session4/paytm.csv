@@ -1,0 +1,6 @@
+Transaction_ID;Amount;Payment_Mode;City
+T001;500;UPI;Ahmedabad
+T002;;Card;Surat
+T003;750;;Rajkot
+T004;300;UPI;
+T005;450;Cash;Ahmedabad
