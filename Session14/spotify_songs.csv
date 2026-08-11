@@ -1,0 +1,21 @@
+song_id,song_name,danceability,energy,valence,popularity
+1,Blinding Lights,0.78,0.8,0.32,95
+2,Shape of You,0.83,0.65,0.93,92
+3,Believer,0.76,0.86,0.74,89
+4,Levitating,0.88,0.82,0.92,90
+5,Perfect,0.6,0.45,0.77,88
+6,Stay,0.59,0.8,0.48,91
+7,Heat Waves,0.76,0.53,0.53,87
+8,Dance Monkey,0.82,0.59,0.54,84
+9,Bad Guy,0.7,0.42,0.56,93
+10,Peaches,0.68,0.55,0.61,86
+11,Havana,0.77,0.52,0.42,85
+12,Senorita,0.76,0.54,0.75,89
+13,Closer,0.75,0.52,0.64,88
+14,Counting Stars,0.66,0.71,0.48,90
+15,Cheap Thrills,0.79,0.73,0.74,86
+16,Uptown Funk,0.86,0.61,0.93,91
+17,Rockstar,0.64,0.52,0.15,87
+18,Watermelon Sugar,0.55,0.82,0.56,89
+19,Attention,0.78,0.65,0.32,84
+20,One Dance,0.6,0.43,0.35,92
