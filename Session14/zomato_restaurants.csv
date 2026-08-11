@@ -1,0 +1,21 @@
+restaurant_id,restaurant_name,category,average_cost_for_two,user_rating
+1,Spice Garden,North Indian,500,4.2
+2,Urban Bites,Cafe,350,3.8
+3,The Food House,Chinese,800,4.5
+4,Taste Junction,Fast Food,300,3.5
+5,Royal Kitchen,North Indian,1200,4.7
+6,Cafe Delight,Cafe,450,4.0
+7,Food Corner,South Indian,600,4.1
+8,Masala Point,Chinese,700,4.3
+9,Green Leaf,Healthy Food,900,4.6
+10,Urban Tadka,North Indian,550,3.9
+11,The Curry House,Mughlai,1500,4.8
+12,Foodie Hub,Fast Food,400,3.6
+13,Spice Route,Italian,1000,4.4
+14,The Terrace,Continental,1300,4.7
+15,Kitchen 24,Cafe,500,4.1
+16,Flavour Town,North Indian,750,4.2
+17,Desi Zaika,South Indian,650,4.0
+18,Cafe Aroma,Bakery,300,3.7
+19,Royal Treat,Mughlai,1100,4.6
+20,Street Bites,Fast Food,250,3.4
